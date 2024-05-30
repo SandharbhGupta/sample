@@ -220,6 +220,7 @@ int main ()
 
     insertBeforeNode(head->next,110);
     print(head);
+    cout<<"Bye"<<endl;
 
 return 0;
 }
